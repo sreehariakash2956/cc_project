@@ -1,0 +1,1000 @@
+246  ./a.out
+  247  ciear
+  248  clear
+  249  gcc sorting.c
+  250  ./a.out
+  251  clear
+  252  gcc palindrome.c
+  253  clear
+  254  gcc palindrome.c
+  255  clear
+  256  gcc palindrome.c
+  257  ./a.out
+  258  gcc palindrome.c
+  259  ./a.out
+  260  gcc palindrome.c
+  261  ./a.out
+  262  gcc vowels.c
+  263  clear
+  264  gcc 2palindrome.c
+  265  clear
+  266  gcc 2palindrome.c
+  267  ./a.out
+  268  gcc 2palindrome.c
+  269  ./a.out
+  270  clear
+  271  ./a.out
+  272  gntguy
+  273  y7ty78y9u
+  274  \hfy9u0]
+  275  e
+  276  hgygdvuyuydyuyduudyyddydygtt
+  277  ruru;
+  278  rr
+  279  r
+  280  rr
+  281  r
+  282  f
+  283  e
+  284  r
+  285  vv
+  286  v
+  287  clear
+  288  gcc 2palindrome.c
+  289  ./a.out
+  290  g++ loop.cpp
+  291  ./a.out
+  292  g++ loop.cpp
+  293  ./a.out
+  294  g++ loop.cpp
+  295  ./a.out
+  296  g++ loop.cpp
+  297  ./a.out
+  298  g++ loop.cpp
+  299  ./a.out
+  300  javac ellipse.java
+  301  appletviewer ellipse.java
+  302  javac Frame1.java
+  303  clear
+  304  javac Frame1.java
+  305  appletviewer Frame1.java
+  306  cd Desktop
+  307  cd sanjaylal
+  308  2palindrome.c
+  309  gcc 2palindrome.c
+  310  ./a.out
+  311  clear
+  312  cd Desktop
+  313  clear
+  314  gcc 2palindrome.c
+  315  ./a.out
+  316  clear
+  317  gcc vowels
+  318  gcc vowels.c
+  319  clear
+  320  gcc vowels.c
+  321  clear
+  322  gcc vowels.c
+  323  clear
+  324  gcc vowels.c
+  325  gcc Untitled Document 1
+  326  cd Desktop
+  327  cd sanjaylal
+  328  gcc vowels.c
+  329  ./a.out
+  330  clear
+  331  ./a.out
+  332  clear
+  333  gcc vowels.c
+  334  ./a.out
+  335  hj
+  336  clear
+  337  ./a.out
+  338  cd Desktop
+  339  cd sanjaylal
+  340  gcc factorial.c
+  341  ./a.out
+  342  clear
+  343  ./a.out
+  344  javac stringExtraction.java
+  345  stringExtraction.java
+  346  java stringExtraction
+  347  javac studentDetails.java
+  348  javac PayoutDemo.java
+  349  javac multiplicationtable.java
+  350  java multiplicationtable
+  351  Shapes.java
+  352  javac Shapes.java
+  353  java Shapes
+  354  appletveiwer Shapes.java
+  355  appletviewer Shapes.java
+  356  javac mouse.java
+  357  java mouse
+  358  appletviewer mouse.java
+  359  javac Frame1.java
+  360  java Frame1
+  361  appletviewer Frame1.java
+  362  javac shape.java
+  363  appletviewer shape.java
+  364  javac multiList.java
+  365  javac ellipse.java
+  366  clear
+  367  javac ellipse.java
+  368  appletviewer ellipse.java
+  369  javac studentDetails.java
+  370  javac Frame1.java
+  371  appletviewer Frame1.java
+  372  javac studentDetails.java
+  373  javac StudentDetails.java
+  374  javac studentDetail.java
+  375  javac studentDetails.java
+  376  javac StudentDetails.java
+  377  java StudentDetails
+  378  javac multiList.java
+  379  appletviewer multiList.java
+  380  cd Desktop
+  381  cd sanjaylal
+  382  gcc marklist.c
+  383  clear
+  384  gcc sanjaylal10.c
+  385  cd Desktop
+  386  cd sanjaylal
+  387  gcc marklist.c
+  388  cd Desktop
+  389  cd sanjaylal
+  390  gcc PRG9.c
+  391  cd Desktop
+  392  cd sanjaylal
+  393  gcc marklist2.c
+  394  clear
+  395  gcc marklist2.c
+  396  ./a.out
+  397  clear
+  398  gcc marklist2.c
+  399  ./a.out
+  400  gcc marklist2.c
+  401  ./a.out
+  402  clear
+  403  gcc marklist2.c
+  404  ./a.out
+  405  cd Desktop
+  406  cd sanjaylal
+  407  gcc pointers.c
+  408  cd Desktop
+  409  cd sanjayalal
+  410  cd sanjaylal
+  411  gcc pointers.c
+  412  clear
+  413  gcc pointers.c
+  414  ./a.out
+  415  cd Deskto
+  416  clear
+  417  cd Desktop
+  418  cd sanjaylal
+  419  gcc pointers.c
+  420  ./a.out
+  421  CLAER
+  422  clear
+  423  cd Desktop
+  424  clear
+  425  cd Desktop
+  426  clear
+  427  gcc pointers.c
+  428  ./a.out
+  429  clear
+  430  gcc pointers.c
+  431  ./a.out
+  432  cd Desktop
+  433  cd sanjaylal
+  434  gcc adding of two num
+  435  cd Desktop
+  436  cd sanjaylal
+  437  gcc addition
+  438  clear
+  439  gcc addition
+  440  cd Desktop
+  441  cd sanjaylal
+  442  gcc addition
+  443  vlear
+  444  ciear
+  445  clear
+  446  gthm
+  447  i
+  448  iclear
+  449  clar
+  450  clear
+  451  cd Desktop
+  452  cd sanjaylal
+  453  gcc file.c
+  454  ./a.out
+  455  gcc file.c
+  456  ./a.out
+  457  gcc file.c
+  458  ./a.out
+  459  ./a.out file1.txt file2.txt
+  460  cd Desktop
+  461  cd sanjaylal
+  462  gcc file2.c
+  463  ./a.out file1.txt file2.txt
+  464  cd Desktop
+  465  cd sanjaylal
+  466  gcc command.c
+  467  gcc file2.c
+  468  ./a.out file1.txt file2.txt
+  469  clear
+  470  gcc file2.c
+  471  ./a.out file1.txt file2.txt
+  472  javac MouseListenerExample.java
+  473  java MouseListenerExample
+  474  cd Desktop
+  475  cd sanjaylal
+  476  gcc model1.c
+  477  clear
+  478  gcc model1.c
+  479  ./a.out
+  480  ciear
+  481  ckear
+  482  clear
+  483  gcc model1.c
+  484  ./a.out
+  485  gcc model2.c
+  486  clear
+  487  gcc model2.c
+  488  clear
+  489  gcc model2.c
+  490  cd Desktop
+  491  cd sanjaylal
+  492  gcc model2.c
+  493  cd Desktop
+  494  cd sanjaylal
+  495  gcc model2.c
+  496  ./a.out
+  497  gcc model2.c
+  498  ./a.out
+  499  clear
+  500  gcc model2.c
+  501  ./a.out
+  502  5677
+  503  678
+  504  98
+  505  90
+  506  clear
+  507  gcc model2.c
+  508  ./a.out
+  509  clear
+  510  gcc model1.c
+  511  ./a.out
+  512  gcc primenum.c
+  513  ./a.out
+  514  clear
+  515  gcc model1.c
+  516  ./a.out
+  517  [Bclae
+  518  lcear
+  519  clear
+  520  gcc model1.c
+  521  ./a.out
+  522  gcc model1.c
+  523  ./a.out
+  524  gcc model2.c
+  525  ./a.out
+  526  cd Desktop
+  527  cd sanjaylal
+  528  gcc 11.c
+  529  cd Desktop
+  530  cd sanjaylal
+  531  gcc 11.c
+  532  ./a.out file1.txt file2.txt
+  533  clear
+  534  gcc 11.c
+  535  ./a.out cat file1.txt cat file2.txt
+  536  ./a.out cat file1.txt file2.txt
+  537  cd Desktop
+  538  cd sanjaylal
+  539  gcc 11.c
+  540  ./a.out file1.txt file2.txt
+  541  javac stringExtraction.java
+  542  java stringExtraction
+  543  pwd
+  544  cd ..
+  545  pwd
+  546  cd ..'
+  547  pwd
+  548  cd ..
+  549  cat file.txt1
+  550  pwd
+  551  touch rag{1,2}.txt
+  552  cd ~
+  553  cd ~ txt
+  554  cd ~.txt
+  555  ls
+  556  ls -a
+  557  ls - ls
+  558  ls -h
+  559  ls -.txt
+  560  ls --help
+  561  ls -h
+  562  history
+  563  clear
+  564  pwd
+  565  cd ..
+  566  cat rag{5,6}.c
+  567  cat rag{1}.txt
+  568  cat rag 1.txt
+  569  cat rag1.txt
+  570  cat rag 1.txt
+  571  cd /
+  572  cat rag 1.txt
+  573  cat p8.c
+  574  cat documents
+  575  cd mnt
+  576  rag.txt
+  577  rag 1.txt
+  578  cat rag 1.txt
+  579  cat arth.cpp
+  580  cd ..
+  581  cd /
+  582  cd bin
+  583  cd ..
+  584  cd bin
+  585  ls
+  586  cd pwdx
+  587  cd mount
+  588  cd ..
+  589  ls
+  590  cd usr
+  591  ls
+  592  cd src
+  593  ls
+  594  cd /
+  595  cd cat bin
+  596  clear
+  597  cd ..
+  598  cd user
+  599  cd /
+  600  pwd
+  601  cd ..
+  602  pwd
+  603  history
+  604  cd ..
+  605  ls
+  606  lib
+  607  ls -h
+  608  lib64
+  609  bin
+  610  cd bin
+  611  li -sh
+  612  li
+  613  media
+  614  cd /
+  615  cd sys
+  616  cd /
+  617  cd usr
+  618  ls
+  619  cd bin
+  620  ls
+  621  mount
+  622  pwd
+  623  cd ..
+  624  cd bin
+  625  cd ~
+  626  man
+  627  man ls
+  628  clear
+  629  cd \
+  630  cd /
+  631  ls
+  632  cd home
+  633  ls
+  634  cd skacas
+  635  ls
+  636  cd Desktop
+  637  ls
+  638  mkdir model
+  639  cd model
+  640  touch file1.txt
+  641  touch file2.cpp
+  642  touch file3.pdf
+  643  touch file4.txt
+  644  echo "hello world"
+  645  echo "hello \n world"
+  646  echo -e "hello \nworld"
+  647  echo "hello guys" > file1.txt
+  648  cd ..
+  649  mkdir define
+  650  cd define
+  651  touch bin.txt
+  652  touch lib.txt
+  653  touch boot.txt
+  654  touch home
+  655  touch home.txt
+  656  echo "bin is executable files" > bin.txt
+  657  clear
+  658  cd /
+  659  clear
+  660  cd /
+  661  ls
+  662  cd bin
+  663  ls
+  664  cd home
+  665  cd ..
+  666  ls
+  667  cd home
+  668  ls
+  669  cd skacas
+  670  cd /
+  671  ls
+  672  cd bin
+  673  ls
+  674  cd Desktop
+  675  cd /
+  676  ls
+  677  clear
+  678  cd home
+  679  ls
+  680  cd skacas
+  681  ls
+  682  cd Desktop
+  683  ls -l
+  684  mkdir bin.txt
+  685  mkdir lib.txt
+  686  mkdir boot.txt
+  687  mkdir home.txt
+  688  clear
+  689  cd /
+  690  cd home
+  691  ls
+  692  cd skacas
+  693  cd /
+  694  cd ..
+  695  clear
+  696  cd home
+  697  ls
+  698  cd skacas
+  699  ls
+  700  cd Desktop
+  701  mkdir root
+  702  cd root
+  703  ls -l
+  704  mkdir bin.txt
+  705  mkdir lib.txt
+  706  mkdir boot.txt
+  707  mkdir home.txt
+  708  clear
+  709  cd /
+  710  cd home
+  711  ls
+  712  cd skacas
+  713  ls
+  714  cd Desktop
+  715  mkdir RA
+  716  mkdir RB
+  717  mkdir RC
+  718  mkdir RD
+  719  cd RA
+  720  touch pwd.txt
+  721  touch manual.txt
+  722  cd ..
+  723  cd RB
+  724  touch manual.txt
+  725  cd ..
+  726  cd RC
+  727  touch clear.txt
+  728  cd ..
+  729  cd RD
+  730  touch kernel.txt
+  731  echo "it is used communicate os and hardware" > kernel.txt
+  732  cd ..
+  733  echo "it is used to clear all the commands in directory"
+  734  echo "it is used to clear all the commands in directory" > clear.txt
+  735  cd RC
+  736  echo "it is used to clear all the commands in directory" > clear.txt
+  737  cd ..
+  738  cd RB
+  739  echo "the command 'man ls' is used to get manual" > manual.txt
+  740  cd ..
+  741  cd RA
+  742  echo "it is a command used to print the current directory" > pwd.txt
+  743  cd ..
+  744  mkdir D1
+  745  cd D1
+  746  cd.
+  747  cd ..
+  748  clear
+  749  cd ..
+  750  cd /
+  751  cd home
+  752  ls
+  753  cd skacas
+  754  ls
+  755  cd Desktop
+  756  mkdir D1
+  757  touch F1
+  758  touch F2
+  759  clear
+  760  touch f1.txt
+  761  touch f2
+  762  touch f2.txt
+  763  echo "welcome to skacas" > f1.txt
+  764  cp f1.txt f2.txt
+  765  cd D1
+  766  touch f3.txt
+  767  cd ..
+  768  cp f1.txt D1/f3.txt
+  769  mkdir D2
+  770  cd D2
+  771  touch f4.txt
+  772  cd ..
+  773  cp f1.txt home/skacas/Desktop/D2/f4.txt
+  774  cp f1.txt /home/skacas/Desktop/D2/f4.txt
+  775  pwd
+  776  rm /home/skacas/Desktop/D2/f4.txt
+  777  cp /home/skacas/Desktop/D1/f3.txt /home/skacas/Desktop/D2/f4.txt
+  778  cp D1 D2
+  779  cp -r D1 D2
+  780  touch sha.exe
+  781  mv sha.exe sha29.exe
+  782  mv sha29.exe /home/skacas/Desktop/D1
+  783  mv new /home/skacas/Desktop/D1
+  784  touch sha.txt
+  785  echo "hi friends" > sha.txt
+  786  touch sha56.txt
+  787  echo "saamy saranam" > sha56.txt
+  788  mv sha.txt sha56.txt
+  789  rm -r R1
+  790  rm -r RA
+  791  cd /
+  792  cd home
+  793  ls
+  794  cd skacas
+  795  ls
+  796  cd Desktop
+  797  mkdir parent
+  798  cd parent
+  799  mkdir sub1
+  800  mkdir sub2
+  801  mkdir sub3
+  802  cd sub1
+  803  thouch file1.txt
+  804  touch file1.txt
+  805  cd ..
+  806  cd sub2
+  807  touch file2.txt
+  808  cd ..
+  809  cd sub3
+  810  touch file3.txt
+  811  cd ..
+  812  echo "hello world" > file1.txt
+  813  cp file1.txt file2.txt
+  814  pwd
+  815  mv file2.txt /home/skacas/Desktop/parent/sub3/file3.txt
+  816  rm file1.txt
+  817  mv file2.txt file3.txt
+  818  cd sub1
+  819  rm file1.txt
+  820  cd /
+  821  ls
+  822  cd home
+  823  ls
+  824  cd skacas
+  825  ls
+  826  cd Desktop
+  827  clear
+  828  mkdir cloud
+  829  cd cloud
+  830  touch file.txt
+  831  cat > file.txt
+  832  cat file.txt
+  833  cat >> file.txt
+  834  cat file.txt
+  835  touch file1.txt
+  836  cat > file1.txt
+  837  cat >> file1.txt
+  838  cat file1.txt
+  839  mv file.txt file1.txt
+  840  touch file.txt
+  841  cat > file.txt
+  842  cat >> file.txt
+  843  cat file.txt
+  844  cat file.txt file1.txt
+  845  tac file.txt file1.txt
+  846  tac file.txt
+  847  cat -n file.txt
+  848  cat file.txt file.txt > file2.txt
+  849  cat file2.txt
+  850  cat -n file2.txt
+  851  cat file2.txt > file3.txt
+  852  cat file3.txt
+  853  nano file4.txt
+  854  cat file4.txt
+  855  nano file4.txt
+  856  vi vimfile.txt
+  857  cd /
+  858  cd home
+  859  ls
+  860  cd skacas
+  861  ls
+  862  cd Desktop
+  863  ls
+  864  cd cloud
+  865  ls
+  866  nano file4.txt
+  867  cat file4.txt
+  868  nano file4.txt
+  869  cat file4.txt
+  870  nano file4.txt
+  871  cat file4.txt
+  872  nano file4.txt
+  873  cat < file4.txt
+  874  vi vimfile.txt
+  875  ls
+  876  cd Desktop
+  877  ls
+  878  cd cloud
+  879  vi vimfile.txt
+  880  clear
+  881  ls -l
+  882  ls -al
+  883  clear
+  884  vi vimfile1.txt
+  885  nano file6.txt
+  886  touch grep.txt
+  887  cat grep.txt
+  888  cat > grep.txt
+  889  cat -l grep.txt
+  890  cat > grep.txt
+  891  cat -l "delulo" grep.txt
+  892  grep -l "delulo" grep.txt
+  893  grep "delulo" grep.txt
+  894  cat > grep1.txt
+  895  grep "delulo" grep.txt grep1.txt
+  896  grep -l "delulo" grep.txt grep1.txt
+  897  grep -l "delulo" grep.txt grep1.txt > data.txt
+  898  cat < data.txt
+  899  grep "DeLulO" grep.txt
+  900  grep "Delulo" grep.txt
+  901  grep -i "DeLulO" grep.txt
+  902  cat < grep1.txt
+  903  grep -e "delulo" -e "deellu" grep.txt grep1.txt
+  904  cat *.txt
+  905  cat file?.txt
+  906  cat g*.txt
+  907  cat > g*.txt
+  908  cat > grep2.txt
+  909  touch test.txt
+  910  rm test.txt
+  911  cd /
+  912  cd desktop
+  913  cd Desktop
+  914  home
+  915  cd home
+  916  ls
+  917  cd skacas
+  918  clear
+  919  touch test.txt
+  920  vim test.txt
+  921  ls
+  922  cd Desktop
+  923  ls
+  924  ll sha56.txt
+  925  su sha
+  926  sudo chown file56.txt
+  927  cd testing
+  928  ls
+  929  cloud
+  930  cd cloud
+  931  ll file56.txt
+  932  cd ..
+  933  history
+  934  clear
+  935  cd Desktop
+  936  mkdir project
+  937  cd project
+  938  mkdir backups
+  939  cd backups
+  940  mkdir January
+  941  mkdir February
+  942  mkdir March
+  943  mkdir April
+  944  mkdir May
+  945  mkdir June
+  946  mkdir July
+  947  mkdir August
+  948  mkdir September
+  949  mkdir October
+  950  mkdir November
+  951  mkdir December
+  952  cd January
+  953  touch jan24.txt
+  954  cd ..
+  955  cd February
+  956  touch feb24.txt
+  957  cd ..
+  958  cd March
+  959  touch mar24.txt
+  960  cd ..
+  961  cd April
+  962  touch apr24.txt
+  963  cd ..
+  964  cd May
+  965  touch may24.txt
+  966  cd ..
+  967  cd June
+  968  touch jun24.txt
+  969  cd ..
+  970  cd July
+  971  touch jul24.txt
+  972  cd ..
+  973  cd August
+  974  touch aug24.txt
+  975  cd ..
+  976  cd September
+  977  touch sep24.txt
+  978  cd ..
+  979  cd October
+  980  touch oct24.txt
+  981  cd..
+  982  cd ..
+  983  cd November
+  984  touch nov24.txt
+  985  cd ..
+  986  cd December
+  987  touch dec24.txt
+  988  cd ..
+  989  mv jan24.txt /home/Desktop/project/backups/February
+  990  cd January
+  991  mv jan24.txt /home/Desktop/projects/backups/February
+  992  nano script.sh
+  993  history
+  994  mv jan24.txt /home/skacas/Desktop/projects/backups/February
+  995  mv jan24.txt /home/skacas/Desktop/projects/backups/cd February
+  996  mv jan24.txt /home/skacas/Desktop/projects/backups/February/feb24.txt
+  997  clear
+  998  histroy
+  999  clear
+ 1000  cd Desktop
+ 1001  cd project
+ 1002  cd backups
+ 1003  cd January
+ 1004  mv jan24.txt /home/skacas/Desktop/projects/backups/February/feb24.txt
+ 1005  ls
+ 1006  mv /home/skacas/Desktop/project/backups/January/jan24.txt /home/skacas/Desktop/project/backups/February/feb24.txt
+ 1007  ls
+ 1008  cd February
+ 1009  cd..
+ 1010  cd ..
+ 1011  cd February
+ 1012  ls
+ 1013  cd ..
+ 1014  cd January
+ 1015  touch jan24.txt
+ 1016  ls
+ 1017  cd ..
+ 1018  mv /home/skacas/Desktop/project/backups/January/jan24.txt /home/skacas/Desktop/project/backups/February/feb24.txt
+ 1019  ls
+ 1020  ls January
+ 1021  ls February
+ 1022  mv /home/skacas/Desktop/project/backups/January/jan24.txt /home/skacas/Desktop/project/backups/February
+ 1023  touch jan24.txt
+ 1024  rm jan24.txt
+ 1025  ls
+ 1026  cd January'
+ 1027  cd January
+ 1028  touch jan24.txt
+ 1029  cd ..
+ 1030  mv /home/skacas/Desktop/project/backups/January/jan24.txt /home/skacas/Desktop/project/backups/February
+ 1031  mv /home/skacas/Desktop/project/backups/February/feb24.txt /home/skacas/Desktop/project/backups/March
+ 1032  mv /home/skacas/Desktop/project/backups/March/mar24.txt /home/skacas/Desktop/project/backups/April
+ 1033  mv /home/skacas/Desktop/project/backups/April/apr24.txt /home/skacas/Desktop/project/backups/May
+ 1034  mv /home/skacas/Desktop/project/backups/May/may24.txt /home/skacas/Desktop/project/backups/June
+ 1035  mv /home/skacas/Desktop/project/backups/June/jun24.txt /home/skacas/Desktop/project/backups/July
+ 1036  mv /home/skacas/Desktop/project/backups/July/jul24.txt /home/skacas/Desktop/project/backups/August
+ 1037  mv /home/skacas/Desktop/project/backups/August/aug24.txt /home/skacas/Desktop/project/backups/September
+ 1038  mv /home/skacas/Desktop/project/backups/August/aug24.txt /home/skacas/Desktop/project/backups/ctober
+ 1039  mv /home/skacas/Desktop/project/backups/August/aug24.txt /home/skacas/Desktop/project/backups/October
+ 1040  mv /home/skacas/Desktop/project/backups/September/sep24.txt /home/skacas/Desktop/project/backups/October
+ 1041  mv /home/skacas/Desktop/project/backups/October/oct24.txt /home/skacas/Desktop/project/backups/November
+ 1042  mv /home/skacas/Desktop/project/backups/November/nov24.txt /home/skacas/Desktop/project/backups/December
+ 1043  cd ..
+ 1044  ls
+ 1045  cd backups
+ 1046  ls
+ 1047  ll January
+ 1048  ll February
+ 1049  ll March
+ 1050  ll April
+ 1051  ll May
+ 1052  cd February
+ 1053  ls
+ 1054  ll jan24.txt
+ 1055  cd 755 jan24.txt
+ 1056  chmod 777 jan24.txt
+ 1057  ll jan24.txt
+ 1058  cd ..
+ 1059  cd January
+ 1060  touch jan24backup.txt
+ 1061  ls
+ 1062  rm jan24backup.txt
+ 1063  ls
+ 1064  cd ..
+ 1065  cd February
+ 1066  touch feb24backup.txt
+ 1067  ls
+ 1068  cd ..
+ 1069  cd March
+ 1070  cat feb24.txt
+ 1071  cat > feb24.txt
+ 1072  cat feb24.txt
+ 1073  cd ..
+ 1074  cd February
+ 1075  cd ..
+ 1076  cd March 
+ 1077  cp /home/skacas/Desktop/project/backups/March/feb24.txt /home/skacas/Desktop/project/backups/February/feb24backup.txt
+ 1078  ls
+ 1079  cat feb24.txt
+ 1080  cd ..
+ 1081  cd February
+ 1082  cat feb24backup.txt
+ 1083  cd ..
+ 1084  rm January
+ 1085  rm -r January
+ 1086  ls
+ 1087  nano script.sh
+ 1088  ./script.sh
+ 1089  cd ..
+ 1090  ll backups
+ 1091  chmod 777 script.sh
+ 1092  cd backups
+ 1093  chmod 777 script.sh
+ 1094  ll script.sh
+ 1095  ./script.sh
+ 1096  history script.sh
+ 1097  ls -l script.sh
+ 1098  history
+ 1099  ps
+ 1100  top
+ 1101  ll
+ 1102  vim file.txt
+ 1103  vim -l file.txt
+ 1104  cat file.txt
+ 1105  grep file1.txt
+ 1106  grep > file1.txt
+ 1107  grep file1.txt
+ 1108  touch file1.txt
+ 1109  cat > file1.txt
+ 1110  cat >> file1.txt
+ 1111  cat file1.txt
+ 1112  grep -r "the" file1.txt
+ 1113  grep -r -i -l "the" file1.txt
+ 1114  grep -r -l "the" file1.txt
+ 1115  mkdir user
+ 1116  mkdir group
+ 1117  mkdir other
+ 1118  ll user
+ 1119  chmod 700 user
+ 1120  ll user
+ 1121  chmod 070 group
+ 1122  ll user
+ 1123  ll group
+ 1124  chmod +x group
+ 1125  ll group
+ 1126  ls
+ 1127  cd group
+ 1128  touch group.txt
+ 1129  chmod +x group.txt
+ 1130  chmod +x group
+ 1131  cd ..
+ 1132  chmod +x group
+ 1133  ll group
+ 1134  chmod +x group
+ 1135  cd group
+ 1136  chmod +x group
+ 1137  touch group.txt
+ 1138  cd ..
+ 1139  rm -r group
+ 1140  rm -l group
+ 1141  ll
+ 1142  cd ..
+ 1143  ll
+ 1144  cd backups
+ 1145  mkdir group
+ 1146  vim file33.txt
+ 1147  clear
+ 1148  rm -r group
+ 1149  cd home
+ 1150  ls
+ 1151  cd Desktop
+ 1152  cd project
+ 1153  rm -r group\
+ 1154  cd Desktop
+ 1155  cd projects
+ 1156  cd project
+ 1157  cd backups
+ 1158  rm -r group
+ 1159  ls
+ 1160  mkdir group
+ 1161  ls
+ 1162  ll group
+ 1163  cd user
+ 1164  ls
+ 1165  ll
+ 1166  cd ..
+ 1167  chmod 070 group
+ 1168  ll group
+ 1169  rm -r group
+ 1170  ls
+ 1171  rm -r group
+ 1172  mkdir group
+ 1173  cd group
+ 1174  touch group.txt
+ 1175  ll group.txt
+ 1176  chmod 070 group.txt
+ 1177  ll group.txt
+ 1178  cd ..
+ 1179  cd other
+ 1180  ll other
+ 1181  cd ..
+ 1182  ll other
+ 1183  chmod 007 other
+ 1184  ll other
+ 1185  rm -r other
+ 1186  mkdir others
+ 1187  cd others
+ 1188  touch others.txt
+ 1189  ll others.txt
+ 1190  chmod 007 others.txt
+ 1191  ll others.txt
+ 1192  cd ..
+ 1193  ll
+ 1194  cd user
+ 1195  chmod 775 user
+ 1196  cd ..
+ 1197  chmod 775 user
+ 1198  cd user
+ 1199  touch user.txt
+ 1200  ll user.txt
+ 1201  chmod 700 user.txt
+ 1202  ll user.txt
+ 1203  cd ..
+ 1204  nano pro14.txt
+ 1205  rm pro14.txt
+ 1206  rm pro14.sh
+ 1207  nano pro14.sh
+ 1208  ./pro14.sh
+ 1209  chmod +x pro14.sh
+ 1210  ./pro14.sh
+ 1211  nano pro14.sh
+ 1212  ./pro14.sh
+ 1213  nano pro14.sh
+ 1214  ./pro14.sh
+ 1215  nano pro14.sh
+ 1216  ./pro14.sh
+ 1217  mkdir January
+ 1218  ls
+ 1219  cd ..
+ 1220  history
+ 1221  nano pro14.sh
+ 1222  cat pro14.sh
+ 1223  cd Desktop
+ 1224  cd project
+ 1225  cd backups
+ 1226  cd ..
+ 1227  cat pro14.sh
+ 1228  history
+ 1229  mkdir backupserver
+ 1230  cp -r backups backupserver
+ 1231  cp -r backups /home/skacas/Desktop/project/backupserver
+ 1232  ll backupserver
+ 1233  cd backupserver
+ 1234  rm -r backups
+ 1235  ls
+ 1236  cd ..
+ 1237  chmod 777 backupserver
+ 1238  cp -r backups backupserver
+ 1239  ls
+ 1240  cd backupserver
+ 1241  ls
+ 1242  cd backuos
+ 1243  cd backups
+ 1244  ls
+ 1245  history
